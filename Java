@@ -1,0 +1,19 @@
+=> Why Java ?
+  * Java is a general purpose programming language. 
+  * Java is the Internet programming language.
+
+=> Characteristics of Java
+  * Java Is Simple 
+  * Java Is Object-Oriented 
+  * Java Is Distributed 
+  * Java Is Interpreted 
+  * Java Is Robust 
+  * Java Is Secure 
+  * Java Is Architecture-Neutral 
+  * Java Is Portable 
+  * Java's Performance 
+  * Java Is Multithreaded 
+  * Java Is Dynamic 
+
+=> The link below contains self test multiple choice questions
+    http://www.cs.armstrong.edu/liang/intro9e/test.html 
